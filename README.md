@@ -1,5 +1,6 @@
 <!-- - 👋 Hi, I’m @atulpokharel-gp
 - 👀 I’m interested in Machine learning and neural network
+
 - 🌱 experience working with java, springboot and flutter 
 - 🌱 I’m currently learning bachelor 
 -  I’m looking to collaborate on project
@@ -19,9 +20,10 @@ email: atulpokharel12@gmail.com
 
 
 - 🌱 I’m currently learning **Python, Machine-Learning , savage-reply**
-
+- 👀 experience working with **java, springboot and flutter** 
 - 💬 Ask me about **Data , dAta , daTa , datA**
 - 👀 Open for project base working   
+
 
 - 📫 How to reach me **atulpokharel12@gmail.com**
 
