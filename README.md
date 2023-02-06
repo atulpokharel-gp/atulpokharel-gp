@@ -1,5 +1,6 @@
 <!-- - 👋 Hi, I’m @atulpokharel-gp
 - 👀 I’m interested in Machine learning and neural network
+- 🌱 experience working with java, springboot and flutter 
 - 🌱 I’m currently learning bachelor 
 -  I’m looking to collaborate on project
 -  Mail  
