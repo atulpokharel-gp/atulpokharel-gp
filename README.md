@@ -14,14 +14,14 @@ email: atulpokharel12@gmail.com
  
  ![MasterHead]( https://rishavanand.github.io/static/images/greetings.gif) 
 <h1 align="center">Hi, I'm Atul pokharel</h1>
-<h3 align="center">intrested to Work with data </h3>
+<h3 align="center">intrested to Work with AI system </h3>
 <img align="right" alt="Coding" width="400" src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif>
 
 
 
 - 🌱 I’m currently learning **Python, Machine-Learning , savage-reply**
-- 👀 experience working with **java, springboot and flutter** 
-- 💬 Ask me about **Data , dAta , daTa , datA**
+- 👀 experience working with **java, springboot , AI , Machine  Learning ,Deep learning and flutter ** 
+- 💬 Ask me about **Data ,AI , Machine  Learning ,Deep learning
 - 👀 Open for project base working   
 
 
