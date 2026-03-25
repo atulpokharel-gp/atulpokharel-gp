@@ -1,77 +1,165 @@
-<!-- - 👋 Hi, I’m @atulpokharel-gp
-- 👀 I’m interested in Machine learning and neural network
-
-- 🌱 experience working with java, springboot and flutter 
-- 🌱 I’m currently learning bachelor 
--  I’m looking to collaborate on project
--  Mail  
-- 📫 How to reach me 
-
-
-email: atulpokharel12@gmail.com
- -->
- 
- 
- ![MasterHead]( https://rishavanand.github.io/static/images/greetings.gif) 
-<h1 align="center">Hi, I'm Atul pokharel</h1>
-<h3 align="center">intrested to Work with AI system </h3>
-<img align="right" alt="Coding" width="400" src=https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif>
-
-
-
-- 🌱 I’m currently learning **Python, Machine-Learning , savage-reply**
-- 👀 experience working with **java, springboot , AI , Machine  Learning ,Deep learning and flutter ** 
-- 💬 Ask me about **Data ,AI , Machine  Learning ,Deep learning
-- 👀 Open for project base working   
-
-
-- 📫 How to reach me **atulpokharel12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/atul-pokharel-34289b19a" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-pokharel-34289b19a" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/atul-pokharel-34289b19a" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-pokharel-34289b19a" height="30" width="40" /></a>
-  
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:22c55e&height=220&section=header&text=Atul%20Pokharel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20AI%20Implementation%20Engineer&descAlignY=58"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-  
-  
-  </br>
+<h1 align="center">Hi 👋, I'm Atul Pokharel</h1>
+<h3 align="center">🚀 AI Engineer | AI Implementation Engineer | Building Intelligent Systems</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atulpokharel-gp&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
+</p>
 
+---
 
-      
-<!--       <img class="image" alt="1" src="#" style="width:100%;height: 400px;">
-      <br>
-      
-    <h2>Learning is my Priority</h2> -->
-<br>
-      <img class="image" alt="1" src="https://vipaa.net/wp-content/uploads/2021/08/java.jpg" style="width:100%;height: 400px;">
-      <h2>experience working in java</h2>
+<img align="right" alt="Coding" width="360" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 
-    
-<br>
-      <img class="image" alt="2" src="https://th.bing.com/th/id/OIP.LRHrGXwuVJJFu1ILoaojUQHaE8?pid=ImgDet&rs=1" style="width:100%;height: 400px;">
-      <h2>completed solo projects in machine learning </h2>
+## 🧠 About Me
+- 🚀 AI/ML Engineer and AI Implementation Engineer with strong focus on intelligent systems  
+- 🤖 Experience working across **machine learning, backend systems, and AI-driven applications**  
+- ⚙️ Skilled in turning **AI concepts into real-world implementations and usable systems**  
+- 📈 Strong foundation in **end-to-end ML workflows, APIs, and scalable architectures**  
+- 🌱 Exploring **LLMs, AI system design, and production-level AI engineering**  
+- 🤝 Open to **AI engineering, research, and high-impact product development**
 
-    
-<br>
-      <img  class="image" alt="3" src="https://th.bing.com/th/id/OIP.9CjtotOBsuzFQN9eRV_p5wHaGA?pid=ImgDet&rs=1" style="width:100%;height: 400px;">
-      <h2>experience working with database and dataresources</h2>
+---
 
- 
+## ⚡ Tech Stack
+
+### 🧩 Core Strengths
+- AI/ML Engineering (model pipelines, evaluation, deployment thinking)
+- AI Implementation (integrating models into real systems)
+- Backend Engineering (APIs, services, system design)
+- Data Engineering (preprocessing, feature engineering, analysis)
+
+### 💻 Languages
+Python • Java • C • SQL
+
+### ⚙️ Frameworks & Development
+Spring Boot • Flutter • Git • GitHub
+
+### 🤖 AI / ML Focus
+- Machine Learning (classification, regression, modeling)
+- Deep Learning (neural networks, experimentation)
+- NLP (sentiment analysis, text processing)
+- Applied AI Systems (model + backend integration)
+
+### 🛠 Tools & Platforms
+Linux • MySQL • Postman • VS Code
+
+---
+
+## 🏆 Research & Professional Direction
+Focused on building **intelligent, scalable, and production-ready AI systems**.  
+Interested in combining **machine learning + backend engineering + real-world applications**.
+
+Approach:
+1. Problem definition  
+2. Research & exploration  
+3. System design  
+4. Implementation  
+5. Evaluation & iteration  
+
+---
+
+## 🚀 Selected Project Showcase
+
+### 🌟 Flagship Project — MomoBot
+🔗 https://github.com/atulpokharel-gp/momobot  
+
+MomoBot is a **consent-based remote task automation platform** designed with a strong focus on:
+
+- 🔐 Zero-trust security architecture  
+- 🔏 Cryptographic command signing & replay protection  
+- 🧾 Immutable audit trails  
+- 🛡 Role-based access control (RBAC)  
+- 🔑 MFA-ready authentication  
+- ⚙️ Task allowlisting & execution control  
+- 🌐 Cross-platform agents (Windows/Linux)  
+- 📡 Real-time monitoring & observability  
+
+🧠 Architecture includes:
+- React Dashboard  
+- Node.js Backend  
+- Django Control Plane  
+- Python Agents  
+
+💡 This project highlights:
+- Platform-level thinking  
+- Secure system design  
+- AI/automation implementation capability  
+- Enterprise-grade architecture mindset  
+
+---
+
+### 📌 Other Projects
+
+#### 🐦 Tweet Sentiment Analysis  
+ML-based sentiment analysis using tweet data  
+
+#### 🚗 Car Price Prediction  
+Regression model for predicting car prices  
+
+#### 🐛 Insect Prediction  
+Classification-based ML project  
+
+#### 💬 Sentiment Analysis  
+Text-based ML/NLP experimentation  
+
+#### 🧠 Major Project  
+Full-cycle development and experimentation  
+
+---
+
+## 🤖 Real AI Focus
+- Machine Learning Pipelines  
+- Predictive Modeling  
+- NLP Applications  
+- Data Processing & Feature Engineering  
+- AI + Backend Integration  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atulpokharel-gp&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpokharel-gp&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulpokharel-gp&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulpokharel-gp&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🎓 Research-Style Interests
+- Applied Machine Learning  
+- Natural Language Processing  
+- AI System Design  
+- Data-Centric Engineering  
+- Scalable Backend Systems  
+
+---
+
+## 🌐 Connect With Me
+- 📧 atulpokharel12@gmail.com  
+- 🔗 https://www.linkedin.com/in/atulpokharel  
+- 💻 https://github.com/atulpokharel-gp  
+
+---
+
+## ⚡ Motto
+> Design intelligent systems. Implement with rigor. Ship with impact.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:1d4ed8&height=120&section=footer"/>
+</p>
