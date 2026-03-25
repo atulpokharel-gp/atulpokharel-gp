@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Atul Pokharel</h1>
-<h3 align="center">🚀 AI Engineer | AI Implementation Engineer | Building Intelligent Systems</h3>
+<h3 align="center">🚀 AI/ML Engineer | AI Implementation Engineer | Building Intelligent Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulpokharel-gp&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
@@ -16,10 +16,10 @@
 
 ## 🧠 About Me
 - 🚀 AI/ML Engineer and AI Implementation Engineer with strong focus on intelligent systems  
-- 🤖 Experience working across **machine learning, backend systems, and AI-driven applications**  
-- ⚙️ Skilled in turning **AI concepts into real-world implementations and usable systems**  
-- 📈 Strong foundation in **end-to-end ML workflows, APIs, and scalable architectures**  
-- 🌱 Exploring **LLMs, AI system design, and production-level AI engineering**  
+- 🤖 Experience in **Machine Learning, Deep Learning, NLP, Computer Vision, and AI systems**  
+- ⚙️ Skilled in building **end-to-end AI solutions, backend systems, and data-driven applications**  
+- 📈 Strong background in **LLMs, RAG systems, document intelligence, and ML pipelines**  
+- 🎓 PhD in Computer Science (ongoing) — Wright State University  
 - 🤝 Open to **AI engineering, research, and high-impact product development**
 
 ---
@@ -27,10 +27,10 @@
 ## ⚡ Tech Stack
 
 ### 🧩 Core Strengths
-- AI/ML Engineering (model pipelines, evaluation, deployment thinking)
-- AI Implementation (integrating models into real systems)
+- AI/ML Engineering (pipelines, modeling, evaluation)
+- AI Implementation (real-world system integration)
 - Backend Engineering (APIs, services, system design)
-- Data Engineering (preprocessing, feature engineering, analysis)
+- Data Engineering (preprocessing, feature engineering)
 
 ### 💻 Languages
 Python • Java • C • SQL
@@ -41,7 +41,8 @@ Spring Boot • Flutter • Git • GitHub
 ### 🤖 AI / ML Focus
 - Machine Learning (classification, regression, modeling)
 - Deep Learning (neural networks, experimentation)
-- NLP (sentiment analysis, text processing)
+- NLP (sentiment analysis, RAG systems, LLMs)
+- Computer Vision (YOLO, CNN, object detection)
 - Applied AI Systems (model + backend integration)
 
 ### 🛠 Tools & Platforms
@@ -49,73 +50,90 @@ Linux • MySQL • Postman • VS Code
 
 ---
 
-## 🏆 Research & Professional Direction
-Focused on building **intelligent, scalable, and production-ready AI systems**.  
-Interested in combining **machine learning + backend engineering + real-world applications**.
+## 💼 Experience
 
-Approach:
-1. Problem definition  
-2. Research & exploration  
-3. System design  
-4. Implementation  
-5. Evaluation & iteration  
+### 🔬 Research Assistant — Wright State University  
+**Aug 2024 – Present | Ohio, USA**
+- Working on **domain-specific LLMs for reverse engineering**
+- Function-name prediction using autoregressive transformer models
+- Research on **vision transformers for tiny object detection**
 
 ---
 
-## 🚀 Selected Project Showcase
+### 🤖 AI Engineer & Product Designer — Procit BV  
+**Sep 2023 – Aug 2024 | Netherlands**
+- Built AI solutions for **healthcare and enterprise systems**
+- Developed **RAG-based chatbot systems using GPT + NLP**
+- Implemented **OCR pipelines, data extraction, and notification systems**
 
-### 🌟 Flagship Project — MomoBot
+---
+
+### 👁️ Machine Vision Engineer — Ishani Technology  
+**Mar 2021 – Aug 2023 | Nepal**
+- Developed **AI-based document extraction systems (PDF → structured data)**
+- Built industrial inspection systems using:
+  - CNN, YOLO, R-CNN, segmentation
+- Worked on **production-grade computer vision pipelines**
+
+---
+
+## 🎓 Education
+- 🎓 **PhD in Computer Science (ongoing)** — Wright State University  
+- 🎓 **Bachelor in Computer Engineering** — Pokhara University  
+
+---
+
+## 🏅 Achievements
+- 🏆 Best Employee — Procit BV (2024)  
+- 🥇 First Prize — ICT Fest (2022)  
+- 🧠 Built AI system for **healthcare document verification (Hackathon 2023)**  
+
+---
+
+## 🚀 Flagship Project — MomoBot
 🔗 https://github.com/atulpokharel-gp/momobot  
 
-MomoBot is a **consent-based remote task automation platform** designed with a strong focus on:
+**MomoBot** is a **consent-based remote task automation platform** designed with enterprise-level security and system architecture.
 
-- 🔐 Zero-trust security architecture  
-- 🔏 Cryptographic command signing & replay protection  
-- 🧾 Immutable audit trails  
-- 🛡 Role-based access control (RBAC)  
-- 🔑 MFA-ready authentication  
-- ⚙️ Task allowlisting & execution control  
-- 🌐 Cross-platform agents (Windows/Linux)  
-- 📡 Real-time monitoring & observability  
+### 🔐 Key Features
+- Zero-trust security architecture  
+- Cryptographic command signing  
+- Replay protection  
+- Immutable audit trails  
+- Role-based access control (RBAC)  
+- MFA-ready authentication  
+- Task allowlisting  
+- Cross-platform agents (Windows/Linux)  
+- Real-time monitoring  
 
-🧠 Architecture includes:
+### 🧠 Architecture
 - React Dashboard  
 - Node.js Backend  
 - Django Control Plane  
 - Python Agents  
 
-💡 This project highlights:
-- Platform-level thinking  
-- Secure system design  
-- AI/automation implementation capability  
-- Enterprise-grade architecture mindset  
+### 💡 Why It Matters
+- Demonstrates **platform-level system design**
+- Shows **AI/automation + backend integration**
+- Reflects **enterprise-grade engineering thinking**
+- Strong indicator of **AI Implementation Engineer capability**
 
 ---
 
-### 📌 Other Projects
-
-#### 🐦 Tweet Sentiment Analysis  
-ML-based sentiment analysis using tweet data  
-
-#### 🚗 Car Price Prediction  
-Regression model for predicting car prices  
-
-#### 🐛 Insect Prediction  
-Classification-based ML project  
-
-#### 💬 Sentiment Analysis  
-Text-based ML/NLP experimentation  
-
-#### 🧠 Major Project  
-Full-cycle development and experimentation  
+## 🚀 Other Projects
+- 🐦 Tweet Sentiment Analysis  
+- 🚗 Car Price Prediction  
+- 🐛 Insect Classification  
+- 💬 NLP Sentiment Analysis  
+- 🧠 Major ML Projects  
 
 ---
 
-## 🤖 Real AI Focus
+## 🤖 AI Focus Areas
 - Machine Learning Pipelines  
-- Predictive Modeling  
-- NLP Applications  
-- Data Processing & Feature Engineering  
+- LLM Applications  
+- RAG Systems  
+- NLP & Computer Vision  
 - AI + Backend Integration  
 
 ---
@@ -141,12 +159,12 @@ Full-cycle development and experimentation
 
 ---
 
-## 🎓 Research-Style Interests
+## 🎓 Research Interests
 - Applied Machine Learning  
 - Natural Language Processing  
 - AI System Design  
 - Data-Centric Engineering  
-- Scalable Backend Systems  
+- Scalable AI Systems  
 
 ---
 
